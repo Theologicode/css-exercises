@@ -39,7 +39,7 @@ ul li a {
 
 .content {
   display: flex;
-  justify-items: center;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   gap: 16px;
